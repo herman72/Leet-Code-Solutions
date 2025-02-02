@@ -39,14 +39,14 @@
 
 package main
 
-import "fmt"
+// import "fmt"
 
-func main(){
-    nums := []int{1,1,1,1}
-     k := removeDuplicates(nums)
-     fmt.Println(k)
+// func main(){
+//     nums := []int{1,1,1,1}
+//      k := removeDuplicates(nums)
+//      fmt.Println(k)
 
-}
+// }
 
 // func removeElement(nums []int, val int) int {
 
