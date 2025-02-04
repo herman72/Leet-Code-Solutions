@@ -1,15 +1,14 @@
 package main
 
 import (
-	"fmt"
 	"unicode"
 )
 
-func main(){
-	s := " "
-	fmt.Println(isPalindrome(s))
+// func main(){
+// 	s := " "
+// 	fmt.Println(isPalindrome(s))
 
-}
+// }
 
 // func isPalindrome(s string) bool {
 
