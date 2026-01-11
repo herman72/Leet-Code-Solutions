@@ -18,4 +18,9 @@ Welcome to my LeetCode repository! Here, you'll find my solutions to various Lee
 26. [remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
     - *Language*: Go, Kotlin, [Python](https://github.com/herman72/Leet-Code-Solutions/blob/main/python_leetcode/remove_duplicates_sorted_array.py)
 
+80. [remove duplicates from sorted array two](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description)
+    - *Language*: Go, Kotlin, [Python](https://github.com/herman72/Leet-Code-Solutions/blob/main/python_leetcode/remove_duplicate_sorted_array_two.py)
+
+
+
 Feel free to explore and utilize these solutions for your reference or learning purposes!
