@@ -6,7 +6,7 @@ Welcome to my LeetCode repository! Here, you'll find my solutions to various Lee
 
 ## Solutions:
 
-125. [valid palindrom](https://leetcode.com/problems/valid-palindrome/description/)
+125 [valid palindrom](https://leetcode.com/problems/valid-palindrome/description/)
     - *Language*: [Go](https://github.com/herman72/Leet-Code-Solutions/blob/main/go_leetcode/validPalindrom.go), Kotlin, [Python](https://github.com/herman72/Leet-Code-Solutions/blob/main/python_leetcode/valid_palindrome.py)
 
 392 [is subsequence](https://leetcode.com/problems/is-subsequence/description/)
@@ -14,6 +14,7 @@ Welcome to my LeetCode repository! Here, you'll find my solutions to various Lee
 
 88 [merge sorted array](https://leetcode.com/problems/merge-sorted-array/description/)
     - *Language*: Go, Kotlin, [Python](https://github.com/herman72/Leet-Code-Solutions/blob/main/python_leetcode/merge_sorted_array.py)
+    
 27 [remove element](https://leetcode.com/problems/remove-element/description/)
     - *Language*: Go, Kotlin, [Python](https://github.com/herman72/Leet-Code-Solutions/blob/main/python_leetcode/remove_element.py)
 
