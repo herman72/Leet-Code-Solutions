@@ -27,6 +27,10 @@ Welcome to my LeetCode repository! Here, you'll find my solutions to various Lee
 125. [valid palindrome](https://leetcode.com/problems/valid-palindrome/description)
     - *Language*: Go, Kotlin, [Python](https://github.com/herman72/Leet-Code-Solutions/blob/main/python_leetcode/valid_palindrome.py)
 
+392. [is subsequence](https://leetcode.com/problems/is-subsequence/description)
+    - *Language*: Go, Kotlin, [Python](https://github.com/herman72/Leet-Code-Solutions/blob/main/python_leetcode/is_subsequence.py)
+
+
 
 
 
