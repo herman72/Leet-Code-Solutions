@@ -27,4 +27,9 @@ Welcome to my LeetCode repository! Here, you'll find my solutions to various Lee
 7. 169 [majority element](https://leetcode.com/problems/majority-element/description/)
     - *Language*: Go, Kotlin, [Python](https://github.com/herman72/Leet-Code-Solutions/blob/main/python_leetcode/majority_element.py)
 
+8. 167 [two sum two](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description)
+    - *Language*: Go, Kotlin, [Python](https://github.com/herman72/Leet-Code-Solutions/blob/main/python_leetcode/two_sum_two.py)
+
+
+
 Feel free to explore and utilize these solutions for your reference or learning purposes!
