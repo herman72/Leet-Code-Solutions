@@ -8,6 +8,7 @@ Welcome to my LeetCode repository! Here, you'll find my solutions to various Lee
 
 1. 125 [valid palindrom](https://leetcode.com/problems/valid-palindrome/description/)
     - *Language*: [Go](https://github.com/herman72/Leet-Code-Solutions/blob/main/go_leetcode/validPalindrom.go), Kotlin, [Python](https://github.com/herman72/Leet-Code-Solutions/blob/main/python_leetcode/valid_palindrome.py)
+    - [Python](https://github.com/herman72/Leet-Code-Solutions/blob/main/python_leetcode/valid_palindrome_2.py)
 
 2. 392 [is subsequence](https://leetcode.com/problems/is-subsequence/description/)
     - *Language*: [Go](https://github.com/herman72/Leet-Code-Solutions/blob/main/go_leetcode/checkIsSubsequence.go), Kotlin, [Python](https://github.com/herman72/Leet-Code-Solutions/blob/main/python_leetcode/is_subsequence.py)
